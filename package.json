@@ -20,7 +20,6 @@
   "bugs": {
     "url": "https://github.com/CyberWalrus/dream-app/issues"
   },
-  "homepage": "https://github.com/CyberWalrus/dream-app#readme",
   "dependencies": {
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
