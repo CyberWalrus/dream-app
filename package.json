@@ -1,0 +1,47 @@
+{
+  "name": "dream-app",
+  "version": "1.0.0",
+  "description": "some dream app for personal use",
+  "main": "index.js",
+  "author": "Andrey Pakhomov <stonewalrusfan@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "craco start",
+    "build": "craco build",
+    "test": "craco test"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CyberWalrus/dream-app.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CyberWalrus/dream-app/issues"
+  },
+  "homepage": "https://github.com/CyberWalrus/dream-app#readme",
+  "dependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-scripts": "^3.4.3"
+  },
+  "devDependencies": {
+    "@craco/craco": "^5.6.4",
+    "@types/react": "^16.9.49",
+    "@types/react-dom": "^16.9.8",
+    "typescript": "^4.0.3"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
